@@ -1,0 +1,11 @@
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaNegocios\obj\Debug\CapaNegocios.pdb

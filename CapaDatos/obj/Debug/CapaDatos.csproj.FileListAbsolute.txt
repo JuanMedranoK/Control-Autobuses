@@ -1,0 +1,9 @@
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Daniel Lopez\source\repos\Autobuses_Itla\CapaDatos\obj\Debug\CapaDatos.pdb
